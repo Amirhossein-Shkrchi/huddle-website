@@ -139,7 +139,7 @@ nav li:hover a {
   left: 0;
   width: 100%;
   height: 150px;
-  background-image: url(/images/bg-section-top-desktop-1.svg);
+  background-image: url(../images/bg-section-top-desktop-1.svg);
 }
 .wavy::after {
   content: "";
@@ -148,7 +148,7 @@ nav li:hover a {
   left: 0;
   width: 100%;
   height: 150px;
-  background-image: url(/images/bg-section-top-desktop-2.svg);
+  background-image: url(../images/bg-section-top-desktop-2.svg);
   transform: rotate(180deg);
 }
 
@@ -216,7 +216,7 @@ nav li:hover a {
   left: 0;
   width: 100%;
   height: 150px;
-  background-image: url(/images/bg-footer-top-desktop.svg);
+  background-image: url(../images/bg-footer-top-desktop.svg);
 }
 
 footer {
